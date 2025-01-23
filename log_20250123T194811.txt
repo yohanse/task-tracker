@@ -1,0 +1,2 @@
+* **19:45 - 19:59:** Focused primarily on editing the `/home/lisping/Desktop/Smart Traffic Management System with Online Licensing/backend/traffic/serializers.py` file.  Created serializer classes for `Driver`, `ViolationType`, and `Violation` models.  The `Violation` serializer includes fields for 'id' and 'driver__id'.  Minor edits were also made to a file named `git/scm0/input`.
+
